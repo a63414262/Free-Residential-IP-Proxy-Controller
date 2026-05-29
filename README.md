@@ -45,7 +45,7 @@
 * **Variable name** 必须填入：`DB`
 * **D1 Database** 选择第一步创建的 `proxy-db`。
 
-4. **配置环境变量 (Environment Variables)**（可选，不填则使用系统默认值）：
+4. **配置环境变量 (Environment Variables)**（强烈要求设置）：
 
 | 变量名 | 默认值 | 作用说明 |
 | --- | --- | --- |
